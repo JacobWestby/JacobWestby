@@ -1,7 +1,7 @@
 Hi 👋 My name is Jacob Westby
 =============================
 
-28 y/o web developer from sweden
+29 y/o web developer from sweden
 --------------------------------
 
 Hello! welcome to my github! I'm a developer mostly focused on Front-end. I've studied on and off for 2 years, i've taken a fullstack course at Codecademy and i've recently finished a 5 month Front-end course at Sundsgården (a school in Sweden). 
