@@ -6,7 +6,7 @@ Hi 👋 My name is Jacob Westby
 
 Hello! welcome to my github! I'm a developer mostly focused on Front-end. I've studied on and off for 2 years, i've taken a fullstack course at Codecademy and i've recently finished a 5 month Front-end course at Sundsgården (a school in Sweden). 
 
-I love coding and bulding stuff from scratch and i hope to make all my money from jobs in the developer field, mostly focusing on freelancing but i am also intressted in working for a company aslong as i can work 100% remote since i live in a van fulltime. 
+I love coding and building stuff from scratch and i hope to make all my money from jobs in the developer field, mostly focusing on freelancing but i am also intressted in working for a company aslong as i can work 100% remote since i live in a van fulltime. 
 
 Check out some of my repos while you're here!
 
