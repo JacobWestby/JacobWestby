@@ -25,7 +25,8 @@ Hello! welcome to my github! I'm a developer mostly focused on Front-end but get
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-https://www.codewars.com/users/JacobWestby/badges/large
+
+![large](https://user-images.githubusercontent.com/62795911/209551592-c77e04df-8571-4d39-a878-9667de9f4e29.svg)
 
 
 ### Socials
